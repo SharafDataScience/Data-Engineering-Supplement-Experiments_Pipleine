@@ -14,6 +14,9 @@ The pipeline uses the following four datasets:
 | `experiments.csv`      | Metadata about experiments and treatments. |
 | `user_profiles.csv`    | Demographic and contact information for each user. |
 
+ ![image](https://github.com/user-attachments/assets/44fbf603-3ad2-4dd9-9257-e81ce926cfc9)
+
+
 ## 🛠️ Features
 
 - Cleans and normalizes all input data.
